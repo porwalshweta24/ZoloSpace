@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">ZoloSpace</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_phone">PHONE NUMBER</string>
+    <string name="prompt_password">PASSWORD</string>
+    <string name="new_password">NEW PASSWORD</string>
+    <string name="old_password">OLD PASSWORD</string>
+    <string name="verification">VERIFICATION</string>
+    <string name="otp">OTP</string>
+    <string name="action_sign_in">LOG IN</string>
+    <string name="action_logout">LOG OUT</string>
+    <string name="action_cancel">CANCEL</string>
+    <string name="action_back">BACK</string>
+    <string name="action_resend">Resend OTP</string>
+    <string name="action_verify">VERIFY</string>
+    <string name="action_submit">SUBMIT</string>
+    <string name="action_register">REGISTER</string>
+    <string name="action_update">UPDATE</string>
+    <string name="action_continue">CONTINUE</string>
+    <string name="action_create_account">CREATE ACCOUNT</string>
+    <string name="action_auto_fill">AUTO FILL VIA TRUECALLER</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="reset_password">Reset password?</string>
+    <string name="register">REGISTER</string>
+    <string name="profile">PROFILE</string>
+    <string name="alert_logout">Are you sure to logout?</string>
+
+    <string name="please_enter_your_registered_number">Please enter your rergistered number.</string>
+    <string name="please_register_zolo">Please register with zolo to continue.</string>
+    <string name="please_enter_the_otp">Please enter the OTP and new password.</string>
+    <string name="please_enter_otp_sent_to_your_phone">Please enter the 6-digit OTP sent to your phone.</string>
+    <string name="Auto_detecting_otp">Auto-detecting OTP in </string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_no_data">No data available.</string>
+    <string name="error_password_same">Password should not be same.</string>
+    <string name="error_invalid_credentials">Invalid Credentials.</string>
+    <string name="error_otp">OTP doesn\'t match, please check again!</string>
+    <string name="error_pasword">Password is not same as before.</string>
+    <string name="success_login">You have log in successfully.</string>
+    <string name="success_update">Your data updated successfully.</string>
+    <string name="error_number_already">This number already exist.</string>
+    <string name="validation_for_now">You can enter 123456 as OTP for now.</string>
+    <string name="name">NAME</string>
+    <string name="referral">REFERRAL CODE</string>
+    <string name="exit">Please click BACK again to exit.</string>
+
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
