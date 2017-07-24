@@ -2,8 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/app/src/main/java/app/com/zolospace" vcs="Git" />
-    <mapping directory="C:\Users\Lenovo\Documents\Android project\walkthrough\ZoloSpace\ZoloSpace" vcs="Git" />
-    <mapping directory="C:\Users\Lenovo\Documents\Android project\walkthrough\ZoloSpace\ZoloSpice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ZoloSpace" vcs="Git" />
   </component>
 </project>
